@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pakpediaonline.vercel.app/sitemap.xml

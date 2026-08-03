@@ -1,0 +1,26 @@
+# PakPedia
+
+> Pakistan’s all-in-one information directory for verified schools, hospitals, live gold & silver rates, newspapers and national news.
+
+PakPedia helps Pakistani citizens and visitors quickly find reliable information about educational institutions, healthcare facilities, precious metal rates and current affairs.
+
+## Key pages
+
+- [Home](https://pakpediaonline.vercel.app/): Main directory search, live rates and latest news
+- [Hospitals](https://pakpediaonline.vercel.app/hospitals): Verified hospital listings across Pakistan
+- [Schools](https://pakpediaonline.vercel.app/schools): Top schools with ratings and contact details
+- [Gold & Silver Rates](https://pakpediaonline.vercel.app/rates): Live indicative rates in Pakistan
+- [News](https://pakpediaonline.vercel.app/news): Latest Pakistan headlines and newspaper links
+- [FAQ](https://pakpediaonline.vercel.app/faq): Frequently asked questions
+- [About](https://pakpediaonline.vercel.app/about): Mission and commitments
+- [Contact](https://pakpediaonline.vercel.app/contact): Get in touch or suggest a listing
+
+## Contact
+
+- Email: hello@pakpedia.pk
+- Phone: +92-42-111-725-333
+- Location: Lahore, Punjab, Pakistan
+
+## Optional
+
+- [Privacy Policy](https://pakpediaonline.vercel.app/privacy)
